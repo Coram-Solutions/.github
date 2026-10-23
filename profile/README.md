@@ -23,7 +23,7 @@
 
 ## Quem somos
 
-A **Coram Solutions** é uma software house de Belém (PA), fundada por Thiago Menezes de Andrade. A gente constrói sistemas web e mobile, APIs, integrações e automação para empresas que precisam de software que funcione de verdade — e continue funcionando depois da entrega.
+A **Coram Solutions** é uma software house de Belém (PA). A gente constrói sistemas web e mobile, APIs, integrações e automação para empresas que precisam de software que funcione de verdade — e continue funcionando depois da entrega.
 
 Já operamos produção em fintech, energia e educação. Por isso a conversa começa pelo seu processo, não pela tecnologia.
 
